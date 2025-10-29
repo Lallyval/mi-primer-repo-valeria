@@ -1,2 +1,2 @@
 # mi-primer-repo-valeria
-mi prtimert repo de github
+mi primer repo de github
